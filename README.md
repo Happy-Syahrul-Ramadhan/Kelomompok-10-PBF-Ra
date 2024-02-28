@@ -2,7 +2,7 @@ Tugas Praktikum Pemrograman Berbasis Fungsi
 
 Anggota Kelompok : 
 
-Happy Syahrul ramadhan-122450013
+Happy Syahrul ramadhan-122450013<br/>
 Nurul Alfajar Gumel-122450127
 
 FADHIL FITRA WIJAYA-122450082
